@@ -9,28 +9,17 @@
 
 To Perform Data Analysis on the given dataset and save the data to a file.
 
-### Explanation
+### ALGORITHM:
 
-Data analytics is important because it helps businesses optimize their performance.Implementing it into the business model means companies can help reduce costs by identifying more efficient ways of doing business and by storing large amounts of data
+STEP 1 : Read the given Data
 
-### ALGORITHM
+STEP 2 : Clean the Data Set using Data Cleaning Process
 
-### STEP 1 : 
-Read the given Data
+STEP 3 : Apply Feature generation and selection techniques to all the features of the data set
 
-### STEP 2
+STEP 4 : Apply data visualization techniques to identify the patterns of the data.
 
-Clean the Data Set using Data Cleaning Process
-
-### STEP 3
-
-Apply Feature generation and selection techniques to all the features of the data set
-
-### STEP 4
-
-Apply data visualization techniques to identify the patterns of the data.
-
-### CODE:
+### Program:
 
 ```
 import pandas as pd
@@ -104,7 +93,7 @@ ax.set_ylabel('Value')
 plt.legend(title='company_size')
 plt.show()
 ```
-### OUTPUT
+### Output:
 
 ![image](https://github.com/Anandanaruvi/Mini-Project/assets/120443233/310ac946-69d7-4806-a4b0-69a492cbc075)
 
