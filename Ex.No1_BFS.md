@@ -9,6 +9,9 @@
 
 To Perform Data Analysis on the given dataset and save the data to a file.
 
+### Equipments Required:
+1.Jupyter notebook or Google colab
+
 ### ALGORITHM:
 
 STEP 1 : Read the given Data
