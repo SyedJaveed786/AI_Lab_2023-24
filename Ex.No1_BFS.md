@@ -15,9 +15,7 @@ Data analytics is important because it helps businesses optimize their performan
 
 ### ALGORITHM
 
-### STEP 1
-
-Read the given Data
+### STEP 1 : Read the given Data
 
 ### STEP 2
 
